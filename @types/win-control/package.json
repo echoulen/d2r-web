@@ -1,0 +1,6 @@
+{
+  "name": "@types/win-control",
+  "version": "1.0.0",
+  "description": "TypeScript definitions for win-control",
+  "types": "index.d.ts"
+}
